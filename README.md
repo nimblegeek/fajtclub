@@ -1,5 +1,5 @@
 # Fajtclub application
-This project was built with the intention to present Mixed Marsal Art clubs in Sweden.
+This project was built with the intention to present Mixed Martial Art clubs in Sweden.
 
 # Main features
 - Present available/active clubs in Sweden on a map.
@@ -19,6 +19,7 @@ This application was built with Java 17 in mind.
 ### To Do
 
 - Create a database and link the files in resources folder
+- Align data model and enable manual generation of DB entries, through jdbc
 - Complete Readme and "getting started section"
 - Build first version with get and post requests
 
